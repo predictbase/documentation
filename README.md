@@ -22,13 +22,14 @@ Welcome to the official documentation for **PredictBase**, a fully decentralized
 
 ## About PredictBase
 
-PredictBase is a fully decentralized prediction market platform built on [Base](https://base.org), offering a transparent and trustless way to bet on the outcome of future events.
+PredictBase is a fully decentralized prediction market platform built on [Base](https://base.org), offering a transparent and trustless way to bet on the outcome of future events. Creators can also create their own markets and earn passive income through the protocol.
 
 Using smart contracts, PredictBase eliminates the need for intermediaries, ensuring fairness and security for all users. All funds are held in smart contracts, and outcomes are resolved based on verified real-world events.
 
 Each market and every individual bet is permanently stored on the blockchain, making all activity fully transparent and publicly verifiable.
 
 Whether it’s sports, finance, politics, or entertainment — you can predict, participate, and profit in an open and permissionless environment.
+
 
 ---
 
