@@ -16,6 +16,7 @@ Welcome to the official documentation for **PredictBase**, a fully decentralized
 - [Market Resolution](#market-resolution)
 - [Fees](#fees)
 - [Security & Privacy](#security--privacy)
+- [Need Help?](#need-help)
 - [FAQs](#faqs)
 
 ---
@@ -30,6 +31,15 @@ Each market and every individual bet is permanently stored on the blockchain, ma
 
 Whether it’s sports, finance, politics, or entertainment — you can predict, participate, and profit in an open and permissionless environment.
 
+---
+
+## Quick Start
+
+1. Connect your wallet
+2. Explore active markets
+3. Place a bet using USDC
+4. Wait for the market to resolve
+5. Claim your winnings
 
 ---
 
@@ -113,12 +123,24 @@ Winnings are automatically transferred to your wallet.
 
 ---
 
+## Glossary
+
+**Resolution Resource** – A URL or explanation used by admins to verify the outcome of a market.
+
+**Protocol Fee** – A 1% fee taken from each bet to support the PredictBase platform.
+
+**Creator Fee** – A 1% reward given to the market creator after resolution.
+
+**Pending Market** – A market that awaits admin review and approval before becoming active.
+
+---
+
 ## Fees
 
 - **Market Creation Fee:** 0.001 ETH (non-refundable).
 - **Transaction Fee on Bets:** 2% total:
-  - 1% Creator Fee
-  - 1% Protocol Fee (for platform maintenance and operations)
+  - 1% Creator Fee — automatically transferred to the market creator after the market is resolved.
+  - 1% Protocol Fee — retained by PredictBase to support platform maintenance and development.
 
 > Fees are added to your bet amount, meaning you will need a slightly higher USDC balance to place a bet.
 
@@ -131,6 +153,16 @@ Winnings are automatically transferred to your wallet.
 - No personal data is collected.
 
 > ⚠️ PredictBase does **NOT** have an official token. Beware of scams.
+
+---
+
+## Need Help?
+
+If you encounter issues or have questions, reach out:
+
+- Email: predictbase.app@gmail.com
+- Discord: [Join our community](https://discord.gg/fqbb5ZMf)
+- Twitter(X): [@PredictBase](https://twitter.com/PredictBase)
 
 ---
 
@@ -156,3 +188,8 @@ Winnings are automatically transferred to your wallet.
 
 **What happens if a market is canceled?**
 > You can claim a full refund of your original stake, including any associated fees.
+
+---
+
+_Last updated: April 7, 2025_
+
