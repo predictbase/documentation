@@ -108,9 +108,20 @@ Winnings are automatically transferred to your wallet.
 4. Pay a small creation fee (0.001 ETH).
 5. Submit and confirm the transaction.
 
-> **Important:**
-> Markets remain *pending* until reviewed by admins (within 24 hours).
-> Invalid or unverifiable markets may be canceled without refund of the creation fee.
+### 📜 Market Creation Terms
+
+By submitting a market to PredictBase, you agree to the following terms:
+
+- Your market question must be clearly worded and not misleading.
+- The resolution criteria must be objective and verifiable.
+- If the market cannot be resolved due to ambiguity or lack of evidence, it may be canceled by an admin.
+- The **end date must be before the event starts**. Markets ending after the event begins will be canceled.
+- All created markets are reviewed by admins and may take up to 24 hours to be approved.
+- The **market creation fee** is **non-refundable**, even if the market is rejected or canceled.
+- PredictBase reserves the right to reject or remove any market that violates platform rules or ethical guidelines.
+
+> These terms are subject to change without prior notice.
+
 
 ---
 
@@ -191,5 +202,5 @@ If you encounter issues or have questions, reach out:
 
 ---
 
-_Last updated: April 7, 2025_
+_Last updated: April 9, 2025_
 
