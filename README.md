@@ -120,8 +120,6 @@ By submitting a market to PredictBase, you agree to the following terms:
 - The **market creation fee** is **non-refundable**, even if the market is rejected or canceled.
 - PredictBase reserves the right to reject or remove any market that violates platform rules or ethical guidelines.
 
-> These terms are subject to change without prior notice.
-
 
 ---
 
@@ -131,6 +129,7 @@ By submitting a market to PredictBase, you agree to the following terms:
 - A market can be either **resolved** or **canceled**.
 - Resolved: users can claim rewards.
 - Canceled: users can claim refunds, including both their initial bet amount and any fees they paid.
+- If no one places a bet on any of the other options, the market will be automatically canceled, and all users will receive a full refund.
 
 ---
 
