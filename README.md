@@ -23,13 +23,14 @@ Welcome to the official documentation for **PredictBase**, a fully decentralized
 
 ## About PredictBase
 
-PredictBase is a fully decentralized prediction market platform built on [Base](https://base.org), offering a transparent and trustless way to bet on the outcome of future events. Creators can also create their own markets and earn passive income through the protocol.
+PredictBase is a fully decentralized prediction market platform built on [Base](https://base.org), offering a transparent and trustless way to bet on the outcome of future events. It allows anyone to create markets on real-world events and place bets using USDC. Creators earn 1% of the total volume placed on their markets, incentivizing quality and engagement.
 
-Using smart contracts, PredictBase eliminates the need for intermediaries, ensuring fairness and security for all users. All funds are held in smart contracts, and outcomes are resolved based on verified real-world events.
+Using smart contracts, PredictBase eliminates the need for intermediaries, ensuring fairness and security for all users. All funds are held in smart contracts, and outcomes are resolved based on verified real-world events. Each market and every individual bet is permanently stored on the blockchain, making all activity fully transparent and publicly verifiable.
 
-Each market and every individual bet is permanently stored on the blockchain, making all activity fully transparent and publicly verifiable.
+PredictBase aims to make betting transparent, accessible, and community-driven. It creates a self-sustaining cycle: users create markets and promote them to attract more volume. This increases overall platform activity, leading to more betting and visibility. As volume grows, creators earn more from their markets, encouraging further participation and expansion. The result is a vibrant, decentralized ecosystem driven by its users.
 
 Whether it’s sports, finance, politics, or entertainment — you can predict, participate, and profit in an open and permissionless environment.
+
 
 ---
 
